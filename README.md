@@ -1,4 +1,4 @@
-![Screenshot 2025-02-11 210601](https://github.com/user-attachments/assets/10fefbfc-2bd8-4587-8a0d-2b25784dff64)![Screenshot 2025-02-11 210659](https://github.com/user-attachments/assets/a9374416-2fcc-410f-915a-b552e7810f11)# 🎵 Artist Portfolio Website
+🎵 Artist Portfolio Website
 
 A web platform for artists to showcase their latest releases, discographies, and event details, allowing fans to **book tickets** for shows. Includes an **admin panel** for managing content and a **Spotify embedded player** for music streaming.
 
@@ -30,7 +30,9 @@ A web platform for artists to showcase their latest releases, discographies, and
 ![Screenshot 2025-02-11 210646](https://github.com/user-attachments/assets/1ae67a87-22eb-464f-a44f-c840c32a23e3)
 ![Screenshot 2025-02-11 210807](https://github.com/user-attachments/assets/32f8a0f0-9c79-4cf2-8735-757faa64f4df)
 ![Screenshot 2025-02-11 210817](https://github.com/user-attachments/assets/1638d8a1-1e51-4eff-a7ef-1c5f80903abb)
-![Screenshot 2024-11-16 131022](https://github.com/user-attachments/assets/09d2a391-2110-462b-ab54-d1624c105b9d)
+
+
+
 ![Screenshot 2024-11-16 130507](https://github.com/user-attachments/assets/c5b0a5cb-8da8-4350-a8e9-b7398911a88b)
 ![Screenshot 2024-11-16 130518](https://github.com/user-attachments/assets/edc2112b-1f3e-422f-975b-95d1d2c9dd4a)
 ![Screenshot 2024-11-14 194342](https://github.com/user-attachments/assets/18117677-a820-4e05-a2fa-8c91f49c6ae1)
