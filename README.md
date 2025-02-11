@@ -10,7 +10,7 @@ A web platform for artists to showcase their latest releases, discographies, and
 ✔️ **Event Ticket Booking** – Fans can book tickets for artist shows  
 ✔️ **Admin Panel** – Manage website content dynamically  
 ✔️ **Spotify Integration** – Embedded player for music streaming  
-✔️ **Responsive UI** – Works across devices  
+
 
 ---
 
